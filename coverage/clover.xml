@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1557156876671" clover="3.2.0">
+  <project timestamp="1557156876671" name="All files">
+    <metrics statements="10" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="2" elements="17" coveredelements="5" complexity="0" loc="10" ncloc="10" packages="2" files="2" classes="2"/>
+    <package name="models">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="AppModel.js" path="G:\Study\RStask\privateRepo\katherinefedenko-2019Q1\youtube-client\src\models\AppModel.js">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="views.AppView">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="AppView.js" path="G:\Study\RStask\privateRepo\katherinefedenko-2019Q1\youtube-client\src\views\AppView\AppView.js">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
